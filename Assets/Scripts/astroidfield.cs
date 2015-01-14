@@ -49,7 +49,6 @@ public class astroidfield : MonoBehaviour
             item.name = "asteroid " + i;
             i++;
         }
-        containingFolder.transform.Translate(new Vector3(-(m_Width * m_SpaceBetween) / 2, -(m_Height / 2), -(m_Length * m_SpaceBetween) / 2));
     }
 
     // Update is called once per frame

@@ -58,11 +58,15 @@
     <Compile Include="Assets\Controls.cs" />
     <Compile Include="Assets\PlayerCollide.cs" />
     <Compile Include="Assets\Practice_Target.cs" />
+    <Compile Include="Assets\ReticleMoveScript.cs" />
+    <Compile Include="Assets\Scripts\HUD_Radar.cs" />
     <Compile Include="Assets\Scripts\Shipflight.cs" />
     <Compile Include="Assets\Scripts\SpeedUIBar.cs" />
     <Compile Include="Assets\Scripts\astroidfield.cs" />
+    <Compile Include="Assets\Scripts\destro.cs" />
+    <Compile Include="Assets\Scripts\fire_from.cs" />
+    <Compile Include="Assets\Scripts\laser_movement.cs" />
     <Compile Include="Assets\cameraEffects.cs" />
-    <Compile Include="Assets\turn.cs" />
   </ItemGroup>
   <Import Project="$(MSBuildExtensionsPath)\SyntaxTree\UnityVS\2013\UnityVS.CSharp.targets" />
 </Project>
